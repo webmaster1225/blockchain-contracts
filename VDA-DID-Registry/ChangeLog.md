@@ -2,6 +2,10 @@
 -------------------
 - Create `DIDRegistryV2` contract, remove `onlyOwner` modifier from the `getDIDs()` function
 
+2023-04-03 (v0.2.1)
+-------------------
+- Added `isRegistered()` function for `VDAXPReward` contract
+
 2023-04-03 (v0.2.0)
 -------------------
 Updates on audit report
